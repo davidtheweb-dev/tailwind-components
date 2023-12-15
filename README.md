@@ -1,6 +1,6 @@
 # Five responsive HTML + Tailwind components
 
-Responsive HTML + Tailwind components (email subscription, image gallery, login modal, pricing cards and a product modal) free to copy, modify and use.
+Responsive HTML + Tailwind components (email subscription, image gallery, login modal, pricing cards and a product modal). Free to copy, modify and use.
 
 ## Email subscription
 ![Email subscription image](https://github-production-user-asset-6210df.s3.amazonaws.com/71373942/255693136-93bd6d17-827b-4684-a018-3281f1d8c79a.png)
